@@ -75,4 +75,5 @@ The model was evaluated based on accuracy and loss metrics:
 * **Model Type:** CNN (Convolutional Neural Network).
 
 ---
-*Created by **Khalid Alammari** - Connect with me on [linkedin.com/in/khalid-alammari-] or Email [Khalid.A.Alammari@gmail.com]*
+Created by **[Khalid Alammari]** - Connect with me on [Linkedin](https://www.linkedin.com/in/khalid-alammari-/)
+ or Email [Khalid.A.Alammari@gmail.com]
